@@ -1,0 +1,15 @@
+{
+  "name": "gptbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "oicq": "^2.3.1",
+    "puppeteer": "^19.3.0"
+  }
+}
